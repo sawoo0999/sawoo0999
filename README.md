@@ -13,7 +13,7 @@
 </div>
 
 
-<div align="right">
+<div align="center">
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawoo0999)](https://github.com/sawoo0999/github-readme-stats)
   

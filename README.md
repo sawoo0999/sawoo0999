@@ -1,5 +1,5 @@
 🪄Lee Coding🪄
-<a href='https://www.instagram.com/easy__hun_/'><img src="https://img.shields.io/badge/Instagram-FA58D0?style=flat-square&logo=firebase&logoColor=white"/></a>
+<a href='https://www.instagram.com/easy__hun_/'><img src="https://img.shields.io/badge/Instagram-FA58D0?style=flat-square&logo=instagram&logoColor=white"/></a>
 <!--
 **sawoo0999/sawoo0999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

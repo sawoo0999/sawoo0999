@@ -11,5 +11,5 @@
 
 </div>
  
-- [] task
- 
+- [] task1
+- [x] task2

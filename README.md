@@ -3,7 +3,7 @@
  ## Skill
 <div>
 
-<img src="https://img.shields.io/badge/JS-CEFB08?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-E8F833?style=flat-square&logo=javascript&logoColor=white"/>
 
 </div>
 
